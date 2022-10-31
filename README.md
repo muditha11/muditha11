@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muditha Fernando</h1>
 <h3 align="center">I'm a Electronics and Telecommunication Undergraduate</h3>
 
+<p align="right"><img align="right" alt="Coding" width="400" src="https://www.multidots.com/wp-content/uploads/2020/01/code-quality-standard.png?quality=90">
+
 - 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **muditha11d@gmail.com**
